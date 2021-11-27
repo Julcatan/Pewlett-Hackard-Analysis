@@ -50,7 +50,7 @@ WHERE de.to_date >= '2021-11-27'
 AND e.birth_date BETWEEN '1965-01-01' AND '1965-12-31'
 ORDER BY e.emp_no ASC; 
 
--- additional queries
+-- additional queries for summary
 SELECT COUNT(m.emp_no),
 m.title
 INTO mentorship_by_title
