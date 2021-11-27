@@ -1,5 +1,5 @@
 # Pewlett-Hackard-Analysis
-SQL Analysis
+
 ## Overview of the analysis:
 
 The purpose of the analysis is to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. 
@@ -28,7 +28,8 @@ We were asked to write a report that summarizes the analysis and will help prepa
   	- This is a breakdown by percent and most recent title.	
    ![image](https://user-images.githubusercontent.com/91682586/143709971-2404a257-cfd5-40dd-8069-d4dac1838e3c.png)
 
-      
+      - Senior staff makes up the highest percentage of upcoming retirees.
+  
   #### Employees Eligible for the Mentorship Program
   
    - Current employees who were born between January 1, 1965 and December 31, 1965 are eligible for the mentorship program.
@@ -48,11 +49,24 @@ Provide high-level responses to the following questions, then provide two additi
 
 #### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
- - A total of 90398 employees are about to retire and their roles need to filled.
+ ##### A total of 90398 employees are about to retire and their roles need to filled.
 
+  - This is a breakdown by percent and most recent title.	
+   ![image](https://user-images.githubusercontent.com/91682586/143709971-2404a257-cfd5-40dd-8069-d4dac1838e3c.png)
+
+  - Senior staff makes up the highest percentage of upcoming retirees.
 
 #### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
+##### There are enough qualified, retirement- ready employees in the departments that could train the next generation. There are  not enough employees eligible for the mentor ship program though.  
+
+  - This is a breakdown of their current titles and their employment start dates:
+      
+   ![image](https://user-images.githubusercontent.com/91682586/143691916-cfbadb74-4fc0-4c78-80de-cd6eaf874497.png)
+      
+   ![image](https://user-images.githubusercontent.com/91682586/143698815-d82961fb-9582-4f35-ab03-476ab0ad2ad3.png)
+
+The mentorship program should be expanded and/ or more aquisition of new qualified employees has to be pursued.    
 
 
 
