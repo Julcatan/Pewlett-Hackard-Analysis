@@ -37,7 +37,7 @@ We were asked to write a report that summarizes the analysis and will help prepa
 LINK  
 
 
-#### This is a link to the SQL query code used for this analysis: https://github.com/Julcatan/Pewlett-Hackard-Analysis/blob/main/Analysis%20Folder/Queries/Employee_Database_challenge.sql
+#### This is a link to the SQL query code used for this analysis:
 
 ## Summary: 
 
