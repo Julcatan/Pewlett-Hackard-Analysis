@@ -34,11 +34,11 @@ We were asked to write a report that summarizes the analysis and will help prepa
       
 ## Summary: 
 
-Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+A large amount of employees is ready to retire.
 
 #### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
- ##### A total of 90398 employees are about to retire and their roles need to filled.
+ A total of 90398 employees are about to retire and their roles need to filled.
 
   - This is a breakdown by percent and most recent title.	
  ![image](https://user-images.githubusercontent.com/91682586/143709971-2404a257-cfd5-40dd-8069-d4dac1838e3c.png)
@@ -47,15 +47,15 @@ Provide high-level responses to the following questions, then provide two additi
 
 ### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
-#### There are enough qualified, retirement- ready employees in the departments that could train the next generation. There are  not enough employees eligible for the mentor ship program though.  
+#### There are enough qualified, retirement- ready employees in the departments that could train the next generation. There are  not enough employees eligible for the mentorship program though.  
 
-  - This is a breakdown of their current titles and their employment start dates:
+  - This is a breakdown of the eligible employees with current titles and their employment start dates:
       
    ![image](https://user-images.githubusercontent.com/91682586/143691916-cfbadb74-4fc0-4c78-80de-cd6eaf874497.png)
       
    ![image](https://user-images.githubusercontent.com/91682586/143698815-d82961fb-9582-4f35-ab03-476ab0ad2ad3.png)
 
-#### The mentorship program should be expanded and/ or more aquisition of new qualified employees has to be pursued.    
+  - The mentorship program should be expanded and/ or more aquisition of new qualified employees has to be pursued.    
 
 
 
