@@ -26,7 +26,7 @@ We were asked to write a report that summarizes the analysis and will help prepa
       - 1761	Assistant Engineer
       - 2	    Manager
 
-  ##### Please follow this link to the data table: Pewlett-Hackard-Analysis/Analysis Folder/Data/retiring_titles.csv
+  ##### Please follow this link to the data table: (Pewlett-Hackard-Analysis/Analysis Folder/Data/retiring_titles.csv)
   	  
   #### Employees Eligible for the Mentorship Program
   
