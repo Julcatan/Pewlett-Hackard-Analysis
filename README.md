@@ -25,7 +25,7 @@ We were asked to write a report that summarizes the analysis and will help prepa
       - 1761	Assistant Engineer
       - 2	    Manager
 
-LINK
+  - Please follow this link to the data table: 
   	  
   #### Employees Eligible for the Mentorship Program
   
