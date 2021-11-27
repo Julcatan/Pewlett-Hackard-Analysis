@@ -212,25 +212,19 @@ ON (de.dept_no = d.dept_no);
 
 
 Select*
-FROM retirement_info
+FROM dept_emp
 
 
 SELECT ri.emp_no,
 ri.first_name,
 ri.last_name,
-dp.department_name
+dp.dept_name
 
 FROM retirement_info AS ri
-
-LEFT JOIN dep_emp AS de
-ON (de.no)
+LEFT JOIN dept_emp AS de
+ON (de.emp_no=ri.emp_no )
 LEFT JOIN departments AS dp
-ON (dp.dept_no = de.dept_no
-
-
-
-
-
-
+ON (dp.dept_no = de.dept_no)
+WHERE dp.dept_name IN ('Sales')
 
 
