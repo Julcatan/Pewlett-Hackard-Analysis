@@ -48,9 +48,9 @@ A large amount of employees is ready to retire.
 
   - Senior staff makes up the highest percentage of upcoming retirees.
 
-### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+#### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
-#### There are enough qualified, retirement- ready employees in the departments that could train the next generation. There are  not enough employees eligible for the mentorship program though.  
+##### There are enough qualified, retirement- ready employees in the departments that could train the next generation. There are  not enough employees eligible for the mentorship program though.  
   
   - Here is the link to the data ...........................................retrieved from the additional query in this file:  
   - This is a breakdown of the eligible employees with current titles and their employment start dates:
