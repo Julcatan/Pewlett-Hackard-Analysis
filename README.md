@@ -11,9 +11,9 @@ We were asked to write a report that summarizes the analysis and will help prepa
     
    - The analysis includes employees who were born between January 1, 1952 and December 31, 1955 and are therefore approaching retirement age.
     
-   - Since some employees have multiple titles in the database we base our analysis on the most recent title
+   - Since some employees have multiple titles in the database we base our analysis on the most recent title.
     
-   - A total of 90398 employees are about to retire.
+   - A total of 90,398 employees are about to retire.
     
    - The count per title is as follow:
     
@@ -25,13 +25,16 @@ We were asked to write a report that summarizes the analysis and will help prepa
       - 1761	Assistant Engineer
       - 2	    Manager
 
+LINK
   	  
   #### Employees Eligible for the Mentorship Program
   
    - Current employees who were born between January 1, 1965 and December 31, 1965 are eligible for the mentorship program.
    - For duplicate employeees in the dataset we used the first occurence in the table sorted by employee number.
    - The analysis shows that currently 1549 employees are eligible for the program. 
-      
+
+LINK      
+
 ## Summary: 
 
 A large amount of employees is ready to retire.
