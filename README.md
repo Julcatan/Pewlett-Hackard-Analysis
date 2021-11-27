@@ -26,7 +26,7 @@ We were asked to write a report that summarizes the analysis and will help prepa
       - 1761	Assistant Engineer
       - 2	    Manager
 
-  - Please follow this link to the data table: 
+  ##### Please follow this link to the data table: 
   	  
   #### Employees Eligible for the Mentorship Program
   
@@ -37,7 +37,8 @@ We were asked to write a report that summarizes the analysis and will help prepa
 LINK  
 
 
-#### This is a link to the SQL query code used for this analysis:
+#### This is a link to the SQL query code used for this analysis: Pewlett-Hackard-Analysis/Analysis Folder/Data/Employee_Database_challenge.sql
+
 
 ## Summary: 
 
