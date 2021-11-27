@@ -7,6 +7,7 @@ We were asked to write a report that summarizes the analysis and will help prepa
 
 ## Results: 
 
+
   #### The Number of Retiring Employees by Title
     
    - The analysis includes employees who were born between January 1, 1952 and December 31, 1955 and are therefore approaching retirement age.
@@ -33,7 +34,10 @@ We were asked to write a report that summarizes the analysis and will help prepa
    - For duplicate employeees in the dataset we used the first occurence in the table sorted by employee number.
    - The analysis shows that currently 1549 employees are eligible for the program. 
 
-LINK      
+LINK  
+
+
+#### This is a link to the SQL query code used for this analysis: https://github.com/Julcatan/Pewlett-Hackard-Analysis/blob/main/Analysis%20Folder/Queries/Employee_Database_challenge.sql
 
 ## Summary: 
 
