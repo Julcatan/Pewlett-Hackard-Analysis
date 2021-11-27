@@ -8,7 +8,7 @@ We were asked to write a report that summarizes the analysis and will help prepa
 ## Results: 
 
 
-  #### The Number of Retiring Employees by Title
+  ####  _The Number of Retiring Employees by Title_
     
    - The analysis includes employees who were born between January 1, 1952 and December 31, 1955 and are therefore approaching retirement age.
     
@@ -26,9 +26,10 @@ We were asked to write a report that summarizes the analysis and will help prepa
       - 1761	Assistant Engineer
       - 2	    Manager
 
-  ##### Please follow this link to the data table: [Pewlett-Hackard-Analysis/Analysis Folder/Data/retiring_titles.csv]
+  -  Please follow this link to the data table: 
+  -  Please use this link to see the underlying SQL query:
   	  
-  #### Employees Eligible for the Mentorship Program
+  #### _Employees Eligible for the Mentorship Program_
   
    - Current employees who were born between January 1, 1965 and December 31, 1965 are eligible for the mentorship program.
    - For duplicate employeees in the dataset we used the first occurence in the table sorted by employee number.
@@ -36,16 +37,16 @@ We were asked to write a report that summarizes the analysis and will help prepa
    - Please follow this link to see the data table: Pewlett-Hackard-Analysis/Analysis Folder/Data/mentorship_eligibility.csv
 
 
-#### This is a link to the SQL query code used for this analysis: Pewlett-Hackard-Analysis/Analysis Folder/Data/Employee_Database_challenge.sql
+[This is a link to the SQL query code used for this analysis:](../Pewlett-Hackard-Analysis/Analysis_Folder/Data/Employee_Database_challenge)
 
 
 ## Summary: 
 
-A large amount of employees is ready to retire.
+ _A large number of employees is ready to retire._
 
 #### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
- A total of 90398 employees are about to retire and their roles need to filled.
+  - A total of 90398 employees are about to retire and their roles need to filled.
 
   - This is a breakdown by percent and most recent title.	
  ![image](https://user-images.githubusercontent.com/91682586/143709971-2404a257-cfd5-40dd-8069-d4dac1838e3c.png)
