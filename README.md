@@ -51,8 +51,11 @@ A large amount of employees is ready to retire.
 ### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
 #### There are enough qualified, retirement- ready employees in the departments that could train the next generation. There are  not enough employees eligible for the mentorship program though.  
-
+  
+  
   - This is a breakdown of the eligible employees with current titles and their employment start dates:
+    
+    LINK
       
    ![image](https://user-images.githubusercontent.com/91682586/143691916-cfbadb74-4fc0-4c78-80de-cd6eaf874497.png)
       
