@@ -8,18 +8,24 @@ We were asked to write a report that summarizes the analysis and will help prepa
 
 ## Resources:
 
-department.csv
-https://github.com/Julcatan/Pewlett-Hackard-Analysis/blob/86e9d729dd414adfc2481359a9ee8ac177eee510/Analysis%20Folder/Data/departments.csv
-dept_emp.csv  
-https://github.com/Julcatan/Pewlett-Hackard-Analysis/blob/86e9d729dd414adfc2481359a9ee8ac177eee510/Analysis%20Folder/Data/dept_emp.csv
-dept_manager.csv 
-https://github.com/Julcatan/Pewlett-Hackard-Analysis/blob/86e9d729dd414adfc2481359a9ee8ac177eee510/Analysis%20Folder/Data/dept_manager.csv
-employees.csv 
-https://github.com/Julcatan/Pewlett-Hackard-Analysis/blob/86e9d729dd414adfc2481359a9ee8ac177eee510/Analysis%20Folder/Data/employees.csv
-salaries.csv 
-https://github.com/Julcatan/Pewlett-Hackard-Analysis/blob/86e9d729dd414adfc2481359a9ee8ac177eee510/Analysis%20Folder/Data/salaries.csv
-titles.csv 
-https://github.com/Julcatan/Pewlett-Hackard-Analysis/blob/86e9d729dd414adfc2481359a9ee8ac177eee510/Analysis%20Folder/Data/titles.csv
+- department.csv:
+
+  https://github.com/Julcatan/Pewlett-Hackard-Analysis/blob/86e9d729dd414adfc2481359a9ee8ac177eee510/Analysis%20Folder/Data/departments.csv
+- dept_emp.csv:
+
+  https://github.com/Julcatan/Pewlett-Hackard-Analysis/blob/86e9d729dd414adfc2481359a9ee8ac177eee510/Analysis%20Folder/Data/dept_emp.csv
+- dept_manager.csv:
+
+  https://github.com/Julcatan/Pewlett-Hackard-Analysis/blob/86e9d729dd414adfc2481359a9ee8ac177eee510/Analysis%20Folder/Data/dept_manager.csv
+- employees.csv: 
+
+  https://github.com/Julcatan/Pewlett-Hackard-Analysis/blob/86e9d729dd414adfc2481359a9ee8ac177eee510/Analysis%20Folder/Data/employees.csv
+- salaries.csv: 
+
+  https://github.com/Julcatan/Pewlett-Hackard-Analysis/blob/86e9d729dd414adfc2481359a9ee8ac177eee510/Analysis%20Folder/Data/salaries.csv
+- titles.csv: 
+
+  https://github.com/Julcatan/Pewlett-Hackard-Analysis/blob/86e9d729dd414adfc2481359a9ee8ac177eee510/Analysis%20Folder/Data/titles.csv
 
 
 This is the SQL Query that was used to analyze the data: https://github.com/Julcatan/Pewlett-Hackard-Analysis/blob/55bcbdd0ec433929c678640ae0457082cbe91efa/Analysis%20Folder/Queries/Employee_Database_challenge.sql
