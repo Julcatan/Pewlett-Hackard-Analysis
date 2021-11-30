@@ -46,7 +46,8 @@ This is the SQL Query that was used to analyze the data: https://github.com/Julc
 #### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
   - A total of 90,398 employees are about to retire and their roles need to filled.
-    Please find the complete data here:  
+    Please find the complete table of retirees here: 
+    https://github.com/Julcatan/Pewlett-Hackard-Analysis/blob/3809b026c8aa5766209a7da69ac2481c9567335b/Analysis%20Folder/Data/retirement_titles.csv
 
   - This is a breakdown by percent and most recent title.	
  ![image](https://user-images.githubusercontent.com/91682586/143709971-2404a257-cfd5-40dd-8069-d4dac1838e3c.png)
@@ -60,11 +61,10 @@ _There are enough qualified, retirement- ready employees in the departments that
   - Please find a visual summary here: 
     ![image](https://user-images.githubusercontent.com/91682586/144059806-b478b26a-470a-4f05-8831-d84bae3011b9.png)
    
-  - This is a breakdown of the eligible employees with current titles and their employment start dates:
+  - This is a breakdown of the eligible employees with current titles:
            
    ![image](https://user-images.githubusercontent.com/91682586/143691916-cfbadb74-4fc0-4c78-80de-cd6eaf874497.png)
-      
-   ![image](https://user-images.githubusercontent.com/91682586/143698815-d82961fb-9582-4f35-ab03-476ab0ad2ad3.png)
+  
 
   - The Data table can be found here:  https://github.com/Julcatan/Pewlett-Hackard-Analysis/blob/c965d7d86d66ab5518d761613daa28ff4a6c504b/Analysis%20Folder/Data/mentorship_by_title.csv
   
