@@ -59,17 +59,18 @@ This is the SQL Query that was used to analyze the data: https://github.com/Julc
 _There are enough qualified, retirement- ready employees in the departments that could train the next generation. There are  not enough employees eligible for the mentorship program though._ 
   
   - Please find a summary here: 
-  - 
-    ![image](https://user-images.githubusercontent.com/91682586/144059806-b478b26a-470a-4f05-8831-d84bae3011b9.png)
+    
+    ![image](https://user-images.githubusercontent.com/91682586/144063470-21bcfdc5-0069-4445-b2c5-209497243716.png)
+
    
-  - This is a breakdown of the eligible employees with current titles:
+  - This is a breakdown of the eligible employees with titles:
            
    ![image](https://user-images.githubusercontent.com/91682586/143691916-cfbadb74-4fc0-4c78-80de-cd6eaf874497.png)
   
 
   - The Data table can be found here:  https://github.com/Julcatan/Pewlett-Hackard-Analysis/blob/c965d7d86d66ab5518d761613daa28ff4a6c504b/Analysis%20Folder/Data/mentorship_by_title.csv
   
-  - _The mentorship program should be expanded and/ or more aquisition of new qualified employees has to be pursued._    
-
+  - _The mentorship program should be expanded and/ or more aquisition of new qualified employees should be pursued._    
+   
 
 
