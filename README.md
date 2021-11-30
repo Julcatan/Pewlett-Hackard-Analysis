@@ -6,7 +6,7 @@ The purpose of the analysis is to determine the number of retiring employees per
 We were asked to write a report that summarizes the analysis and will help prepare Bobby’s manager for the “silver tsunami” as many current employees reach retirement age.
 
 
-## This is the SQL Query that was used to analyze the data: 
+## This is the SQL Query that was used to analyze the data: https://github.com/Julcatan/Pewlett-Hackard-Analysis/blob/55bcbdd0ec433929c678640ae0457082cbe91efa/Analysis%20Folder/Queries/Employee_Database_challenge.sql
 
 ## Results: 
 
