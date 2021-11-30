@@ -5,9 +5,6 @@
 The purpose of the analysis is to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. 
 We were asked to write a report that summarizes the analysis and will help prepare Bobby’s manager for the “silver tsunami” as many current employees reach retirement age.
 
-Resources
-Data Sources:
-
 This is the SQL Query that was used to analyze the data: https://github.com/Julcatan/Pewlett-Hackard-Analysis/blob/55bcbdd0ec433929c678640ae0457082cbe91efa/Analysis%20Folder/Queries/Employee_Database_challenge.sql
 
 ## Results: 
@@ -39,7 +36,7 @@ This is the SQL Query that was used to analyze the data: https://github.com/Julc
    - Current employees who were born between January 1, 1965 and December 31, 1965 are eligible for the mentorship program.
    - For duplicate employeees in the dataset we used the first occurence in the table sorted by employee number.
    - The analysis shows that currently 1549 employees are eligible for the program. 
-   - Please follow this link to see the data table: [https://github.com/Julcatan/Pewlett-Hackard-Analysis/blob/main/Analysis%20Folder/Data/mentorship_eligibility.csv]
+   - Please find the data table here: [https://github.com/Julcatan/Pewlett-Hackard-Analysis/blob/main/Analysis%20Folder/Data/mentorship_eligibility.csv]
  
 
 ## Summary: 
@@ -57,13 +54,11 @@ This is the SQL Query that was used to analyze the data: https://github.com/Julc
 
 #### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
-##### There are enough qualified, retirement- ready employees in the departments that could train the next generation. There are  not enough employees eligible for the mentorship program though.  
+_There are enough qualified, retirement- ready employees in the departments that could train the next generation. There are  not enough employees eligible for the mentorship program though._ 
   
   - Here is the link to the data ...........................................retrieved from the additional query in this file:  
   - This is a breakdown of the eligible employees with current titles and their employment start dates:
-    
-    
-      
+           
    ![image](https://user-images.githubusercontent.com/91682586/143691916-cfbadb74-4fc0-4c78-80de-cd6eaf874497.png)
       
    ![image](https://user-images.githubusercontent.com/91682586/143698815-d82961fb-9582-4f35-ab03-476ab0ad2ad3.png)
