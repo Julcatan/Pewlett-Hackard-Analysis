@@ -45,7 +45,7 @@ This is the SQL Query that was used to analyze the data: https://github.com/Julc
 
 #### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
-  - A total of 90398 employees are about to retire and their roles need to filled.
+  - A total of 90,398 employees are about to retire and their roles need to filled.
 
   - This is a breakdown by percent and most recent title.	
  ![image](https://user-images.githubusercontent.com/91682586/143709971-2404a257-cfd5-40dd-8069-d4dac1838e3c.png)
