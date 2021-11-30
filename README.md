@@ -65,6 +65,7 @@ _There are enough qualified, retirement- ready employees in the departments that
       
    ![image](https://user-images.githubusercontent.com/91682586/143698815-d82961fb-9582-4f35-ab03-476ab0ad2ad3.png)
 
+  - The Data table can be found here:  
   - The mentorship program should be expanded and/ or more aquisition of new qualified employees has to be pursued.    
 
 
