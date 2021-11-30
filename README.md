@@ -46,6 +46,7 @@ This is the SQL Query that was used to analyze the data: https://github.com/Julc
 #### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
   - A total of 90,398 employees are about to retire and their roles need to filled.
+    Please find the complete data here:  
 
   - This is a breakdown by percent and most recent title.	
  ![image](https://user-images.githubusercontent.com/91682586/143709971-2404a257-cfd5-40dd-8069-d4dac1838e3c.png)
@@ -56,7 +57,8 @@ This is the SQL Query that was used to analyze the data: https://github.com/Julc
 
 _There are enough qualified, retirement- ready employees in the departments that could train the next generation. There are  not enough employees eligible for the mentorship program though._ 
   
-  - Here is the link to the data ...........................................retrieved from the additional query in this file:  
+  - Here is a summary: ![image](https://user-images.githubusercontent.com/91682586/144059806-b478b26a-470a-4f05-8831-d84bae3011b9.png)
+   
   - This is a breakdown of the eligible employees with current titles and their employment start dates:
            
    ![image](https://user-images.githubusercontent.com/91682586/143691916-cfbadb74-4fc0-4c78-80de-cd6eaf874497.png)
