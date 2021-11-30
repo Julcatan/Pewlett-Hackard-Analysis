@@ -38,8 +38,7 @@ We were asked to write a report that summarizes the analysis and will help prepa
    - For duplicate employeees in the dataset we used the first occurence in the table sorted by employee number.
    - The analysis shows that currently 1549 employees are eligible for the program. 
    - Please follow this link to see the data table: [https://github.com/Julcatan/Pewlett-Hackard-Analysis/blob/main/Analysis%20Folder/Data/mentorship_eligibility.csv]
-   
-   - Analysis Folder/Queries/Employee_Database_challenge.sql
+ 
 
 ## Summary: 
 
