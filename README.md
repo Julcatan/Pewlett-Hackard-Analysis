@@ -26,15 +26,15 @@ We were asked to write a report that summarizes the analysis and will help prepa
       - 1761	Assistant Engineer
       - 2	    Manager
 
-  -  Please follow this link to the data table: 
-  -  Please use this link to see the underlying SQL query:
-  	  
+  ![image](https://user-images.githubusercontent.com/91682586/144054023-5cad0276-5618-4376-98e7-6e3eb1699529.png)
+
+   	  
   #### _Employees Eligible for the Mentorship Program_
   
    - Current employees who were born between January 1, 1965 and December 31, 1965 are eligible for the mentorship program.
    - For duplicate employeees in the dataset we used the first occurence in the table sorted by employee number.
    - The analysis shows that currently 1549 employees are eligible for the program. 
-   - Please follow this link to see the data table: Pewlett-Hackard-Analysis/Analysis Folder/Data/mentorship_eligibility.csv
+   - Please follow this link to see the data table: [Pewlett-Hackard-Analysis/Analysis Folder/Data/mentorship_eligibility.csv]
 
 
 [This is a link to the SQL query code used for this analysis:](../Pewlett-Hackard-Analysis/Analysis_Folder/Data/Employee_Database_challenge)
