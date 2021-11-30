@@ -11,7 +11,7 @@ This is the SQL Query that was used to analyze the data: https://github.com/Julc
 
 
   ####  _The Number of Retiring Employees by Title_
-    
+  ---  
    - The analysis includes employees who were born between January 1, 1952 and December 31, 1955 and are therefore approaching retirement age.
     
    - Since some employees have multiple titles in the database we base our analysis on the most recent title.
@@ -32,7 +32,7 @@ This is the SQL Query that was used to analyze the data: https://github.com/Julc
 
    	  
   #### _Employees Eligible for the Mentorship Program_
-  
+  ---
    - Current employees who were born between January 1, 1965 and December 31, 1965 are eligible for the mentorship program.
    - For duplicate employees in the dataset we used the first occurence in the table sorted by employee number.
    - The analysis shows that currently 1549 employees are eligible for the program. 
@@ -40,11 +40,11 @@ This is the SQL Query that was used to analyze the data: https://github.com/Julc
  
 
 ## Summary: 
-
+---
  _A large number of employees is ready to retire._
 
 #### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-
+---
   - A total of 90,398 employees are about to retire and their roles need to filled.
     Please find the complete table of retirees here: 
     https://github.com/Julcatan/Pewlett-Hackard-Analysis/blob/3809b026c8aa5766209a7da69ac2481c9567335b/Analysis%20Folder/Data/retirement_titles.csv
@@ -55,10 +55,11 @@ This is the SQL Query that was used to analyze the data: https://github.com/Julc
   - Senior staff makes up the highest percentage of upcoming retirees.
 
 #### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-
+---
 _There are enough qualified, retirement- ready employees in the departments that could train the next generation. There are  not enough employees eligible for the mentorship program though._ 
   
-  - Please find a visual summary here: 
+  - Please find a summary here: 
+  - 
     ![image](https://user-images.githubusercontent.com/91682586/144059806-b478b26a-470a-4f05-8831-d84bae3011b9.png)
    
   - This is a breakdown of the eligible employees with current titles:
