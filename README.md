@@ -63,7 +63,7 @@ _There are enough qualified, retirement- ready employees in the departments that
     ![image](https://user-images.githubusercontent.com/91682586/144063470-21bcfdc5-0069-4445-b2c5-209497243716.png)
 
    
-  - This is a breakdown of the eligible employees with titles:
+  - This is a breakdown of the employees elibible for mentorship with titles:
            
    ![image](https://user-images.githubusercontent.com/91682586/143691916-cfbadb74-4fc0-4c78-80de-cd6eaf874497.png)
   
