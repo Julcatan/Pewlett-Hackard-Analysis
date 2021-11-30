@@ -34,7 +34,7 @@ We were asked to write a report that summarizes the analysis and will help prepa
    - Current employees who were born between January 1, 1965 and December 31, 1965 are eligible for the mentorship program.
    - For duplicate employeees in the dataset we used the first occurence in the table sorted by employee number.
    - The analysis shows that currently 1549 employees are eligible for the program. 
-   - Please follow this link to see the data table: [Pewlett-Hackard-Analysis/Analysis Folder/Data/mentorship_eligibility.csv]
+   - Please follow this link to see the data table: [/Analysis Folder/Data/](mentorship_eligibility.csv)
 
 
 [This is a link to the SQL query code used for this analysis:](../Pewlett-Hackard-Analysis/Analysis_Folder/Data/Employee_Database_challenge)
