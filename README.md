@@ -34,7 +34,7 @@ This is the SQL Query that was used to analyze the data: https://github.com/Julc
   #### _Employees Eligible for the Mentorship Program_
   
    - Current employees who were born between January 1, 1965 and December 31, 1965 are eligible for the mentorship program.
-   - For duplicate employeees in the dataset we used the first occurence in the table sorted by employee number.
+   - For duplicate employees in the dataset we used the first occurence in the table sorted by employee number.
    - The analysis shows that currently 1549 employees are eligible for the program. 
    - Please find the data table here: [https://github.com/Julcatan/Pewlett-Hackard-Analysis/blob/main/Analysis%20Folder/Data/mentorship_eligibility.csv]
  
