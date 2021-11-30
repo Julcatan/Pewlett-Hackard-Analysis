@@ -37,8 +37,7 @@ We were asked to write a report that summarizes the analysis and will help prepa
    - Please follow this link to see the data table: [https://github.com/Julcatan/Pewlett-Hackard-Analysis/blob/main/Analysis%20Folder/Data/mentorship_eligibility.csv]
 
 
-[This is a link to the SQL query code used for this analysis:](../Pewlett-Hackard-Analysis/Analysis_Folder/Data/Employee_Database_challenge)
-
+[This is a link to the SQL query code used for this analysis:]
 
 ## Summary: 
 
