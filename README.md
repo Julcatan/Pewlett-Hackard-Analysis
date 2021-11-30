@@ -51,8 +51,7 @@ This is the SQL Query that was used to analyze the data: https://github.com/Julc
       - 1761	Assistant Engineer
       - 2	    Manager
 
-  ![image](https://user-images.githubusercontent.com/91682586/144054023-5cad0276-5618-4376-98e7-6e3eb1699529.png)
-
+  This is a link to the table: https://github.com/Julcatan/Pewlett-Hackard-Analysis/blob/df2f53021c8ae779567c1985d3e7cd8fedce3882/Analysis%20Folder/Data/retiring_titles.csv
    	  
   #### _Employees Eligible for the Mentorship Program_
   ---
