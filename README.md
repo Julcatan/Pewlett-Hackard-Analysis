@@ -86,7 +86,7 @@ _There are enough qualified, retirement- ready employees in the departments that
 
    https://github.com/Julcatan/Pewlett-Hackard-Analysis/blob/8a0e0bb7e5ed01d256b41d8b2d1888e323d695a5/Analysis%20Folder/Data/mentorship_vs_retirees.csv
    
-  - This is a breakdown of the employees elibible for mentorship with titles:
+  - This is a breakdown of the employees eligible for mentorship with titles:
            
    ![image](https://user-images.githubusercontent.com/91682586/143691916-cfbadb74-4fc0-4c78-80de-cd6eaf874497.png)
   
